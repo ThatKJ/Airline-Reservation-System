@@ -39,7 +39,7 @@ A terminal-based Airline Reservation System built in Python using MySQL for pers
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ThatVolt/airline-reservation-system.git
+git clone https://github.com/ThatKJ/airline-reservation-system.git
 cd airline-reservation-system
 
 2. Install dependencies
